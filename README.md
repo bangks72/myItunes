@@ -13,4 +13,5 @@ CREATE TABLE Aaudio(
 );
 INSERT INTO Aaudio VALUES(1, "", "", "", "", "")
 //
+Use tika-app-1.14.jar to retrieve the metadata
 
